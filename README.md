@@ -1,4 +1,3 @@
-render.yaml
 """Minnow Live: non-custodial XRP -> meme coin swap on the XRPL (mainnet by default).
 Users sign every transaction in their own Xaman wallet. This server never sees a secret key."""
 import json, os
